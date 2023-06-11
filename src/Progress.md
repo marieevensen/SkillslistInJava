@@ -8,7 +8,7 @@
 
 Jeg klarer å ...
 
-- [ ] opprette en tom klasse
+- [x] opprette en tom klasse
 - [ ] opprette en (statisk) main-metode
 - [ ] printe ut tekst til terminalen
 - [ ] printe ut svaret på et regnestykke til terminalen
